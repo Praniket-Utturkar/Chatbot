@@ -1,0 +1,206 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey! Welcome to our car dealership.",
+        "Hello! How can we assist you today?",
+        "Hi there! How may I help you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later! Have a great day.",
+        "Goodbye! Don't hesitate to visit us again.",
+        "Bye! Take care."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["You're welcome!", "Glad to help!", "My pleasure!"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "What types of cars do you sell?",
+        "Do you have new cars?"
+      ],
+      "responses": [
+        "We offer a wide range of cars, including new and used vehicles.",
+        "Our inventory includes both new and pre-owned cars from various brands."
+      ]
+    },
+    {
+      "tag": "brands",
+      "patterns": [
+        "Types of branded cars?",
+        "Which type of brands are available?"
+      ],
+      "responses": [
+        "Yes, we have Toyota, Ford, Porsche, Honda cars in our inventory.",
+        "You can find a variety of Toyota, Ford, Porsche, Honda vehicles in our showroom.",
+        "Our inventory includes popular brands like Toyota, Ford, Porsche, Honda."
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Can I pay with credit card?",
+        "Do you accept financing?"
+      ],
+      "responses": [
+        "We accept credit card payments and offer financing options for your convenience.",
+        "You can pay with credit card or explore our financing solutions."
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "When will I receive my car?"
+      ],
+      "responses": [
+        "Once purchased, you can expect delivery within 2-7 business days, depending on your location.",
+        "The delivery time for purchased cars typically ranges from 2-7 business days, based on your location."
+      ]
+    },
+    {
+      "tag": "features",
+      "patterns": [
+        "What features do your cars have?",
+        "Can you tell me about the features of your cars?"
+      ],
+      "responses": [
+        "Our cars come with various features, including advanced safety technologies, infotainment systems, and more."
+      ]
+    },
+    {
+      "tag": "services",
+      "patterns": [
+        "Do you offer car servicing?",
+        "What services are available?"
+      ],
+      "responses": [
+        "Yes, we provide comprehensive car servicing, including regular maintenance, repairs, and inspections."
+      ]
+    },
+    {
+      "tag": "hours",
+      "patterns": [
+        "What are your opening hours?",
+        "When do you open and close?"
+      ],
+      "responses": [
+        "We are open from 9:00 AM to 6:00 PM, Monday to Friday.",
+        "Our opening hours are from 9:00 AM to 6:00 PM, Monday to Friday."
+      ]
+    },
+    {
+      "tag": "location",
+      "patterns": [
+        "Where are you located?",
+        "What is your address?"
+      ],
+      "responses": [
+        "Our dealership is located at Katraj Pune.",
+        "You can find us at Katraj Pune-411046."
+      ]
+    },
+    {
+      "tag": "appointment",
+      "patterns": [
+        "Can I schedule an appointment?",
+        "How do I book a meeting?"
+      ],
+      "responses": [
+        "Certainly! You can schedule an appointment by calling us at 7218048163 or emailing us at pategaurav5@gmail.com ",
+        "To book a meeting, please contact us via phone or email. We'll be happy to assist you."
+      ]
+    },
+    {
+      "tag": "test_drive",
+      "patterns": [
+        "Can I schedule a test drive?",
+        "How can I test drive a car?"
+      ],
+      "responses": [
+        "Absolutely! To schedule a test drive, please contact us and we'll arrange it for you.",
+        "Yes, you can schedule a test drive by contacting us. We'll ensure you have a great experience."
+      ]
+    },
+    {
+      "tag": "warranty",
+      "patterns": [
+        "Do your cars come with a warranty?",
+        "What is the warranty policy?"
+      ],
+      "responses": [
+        "Yes, all our cars come with a standard warranty. Contact us for details about the warranty policy.",
+        "Our cars are covered by a warranty. Feel free to inquire about the details."
+      ]
+    },
+    {
+      "tag": "online_purchase",
+      "patterns": [
+        "Can I purchase a car online?",
+        "Do you offer online sales?"
+      ],
+      "responses": [
+        "Yes, you can purchase a car online through our website. We offer convenient online sales services.",
+        "Online car purchases are available through our website. Browse our inventory and make your purchase hassle-free."
+      ]
+    },
+    {
+      "tag": "financing_options",
+      "patterns": [
+        "What financing options do you offer?",
+        "Can you explain your financing plans?"
+      ],
+      "responses": [
+        "We provide various financing options tailored to your needs, including low-interest rates and flexible repayment terms.",
+        "Our financing plans include competitive rates and personalized solutions to make your car purchase affordable and convenient."
+      ]
+    },
+    {
+      "tag": "trade_in",
+      "patterns": [
+        "Do you accept trade-in vehicles?",
+        "Can I trade in my current car?",
+        "What's the trade-in process?"
+      ],
+      "responses": [
+        "Yes, we accept trade-in vehicles. Contact us for an evaluation of your current car's value.",
+        "You can trade in your current vehicle towards the purchase of a new one. Get in touch with us for details about the trade-in process."
+      ]
+    },
+    {
+      "tag": "inventory",
+      "patterns": [
+        "Can I see your current inventory?"
+      ],
+      "responses": [
+        "Certainly! You can view our current inventory on our website or visit our showroom for a firsthand look at our cars."
+      ]
+    },
+    {
+      "tag": "car_prices",
+      "patterns": [
+        "What are the prices of your cars?",
+        "How much do your cars cost?"
+      ],
+      "responses": [
+        "Our car prices vary depending on the model, condition, and features. Contact us for pricing details on specific vehicles"
+      ]
+    }
+  ]
+}
